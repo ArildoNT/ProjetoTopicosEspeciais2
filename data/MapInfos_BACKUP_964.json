@@ -1,0 +1,24 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Rascunho","order":13,"parentId":0,"scrollX":529,"scrollY":312.5},
+{"id":2,"expanded":true,"name":"Casa","order":4,"parentId":11,"scrollX":634.8,"scrollY":349.8},
+{"id":3,"expanded":true,"name":"Meu Quarto","order":7,"parentId":5,"scrollX":634.8,"scrollY":359.4},
+{"id":4,"expanded":true,"name":"Casa 1F","order":5,"parentId":2,"scrollX":634.8,"scrollY":360.59999999999997},
+{"id":5,"expanded":true,"name":"Casa 2F","order":6,"parentId":2,"scrollX":634.8,"scrollY":360.59999999999997},
+{"id":6,"expanded":true,"name":"Quarto Irmão","order":8,"parentId":5,"scrollX":676.5,"scrollY":455.25},
+{"id":7,"expanded":false,"name":"Banheiro","order":9,"parentId":5,"scrollX":529,"scrollY":291.5},
+{"id":8,"expanded":true,"name":"Casa 3F","order":10,"parentId":2,"scrollX":612,"scrollY":333.5},
+{"id":9,"expanded":false,"name":"Event Spawn","order":14,"parentId":1,"scrollX":529,"scrollY":299.5},
+{"id":10,"expanded":true,"name":"Mapa","order":1,"parentId":0,"scrollX":634.8,"scrollY":349.8},
+{"id":11,"expanded":true,"name":"Cidade","order":3,"parentId":10,"scrollX":1136.3999999999999,"scrollY":786.5999999999999},
+{"id":12,"expanded":true,"name":"Quarto Pais","order":11,"parentId":8,"scrollX":531,"scrollY":297},
+{"id":13,"expanded":true,"name":"Praia","order":12,"parentId":10,"scrollX":529,"scrollY":319.5},
+{"id":14,"expanded":false,"name":"Faculdade entrada","order":15,"parentId":0,"scrollX":644.4,"scrollY":360.59999999999997},
+{"id":15,"expanded":false,"name":"Faculdade andar 4","order":16,"parentId":14,"scrollX":634.8,"scrollY":359.4},
+{"id":16,"expanded":false,"name":"sala de aula","order":17,"parentId":14,"scrollX":529,"scrollY":299.5},
+<<<<<<< HEAD
+{"id":17,"expanded":false,"name":"MAP017","order":2,"parentId":10,"scrollX":1321.2,"scrollY":1039.2}
+=======
+{"id":17,"expanded":false,"name":"MAP017","order":2,"parentId":10,"scrollX":1279.5,"scrollY":1038.75}
+>>>>>>> feature/Bugzim
+]
