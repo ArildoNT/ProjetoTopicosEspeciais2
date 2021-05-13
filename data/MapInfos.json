@@ -16,5 +16,5 @@ null,
 {"id":14,"expanded":true,"name":"Faculdade entrada","order":15,"parentId":0,"scrollX":644.4,"scrollY":360.59999999999997},
 {"id":15,"expanded":false,"name":"Faculdade andar 4","order":16,"parentId":14,"scrollX":634.8,"scrollY":359.4},
 {"id":16,"expanded":false,"name":"sala de aula","order":17,"parentId":14,"scrollX":529,"scrollY":299.5},
-{"id":17,"expanded":false,"name":"MAP017","order":2,"parentId":10,"scrollX":1323.6,"scrollY":1038.6}
+{"id":17,"expanded":false,"name":"MAP017","order":2,"parentId":10,"scrollX":1321.2,"scrollY":1039.2}
 ]
