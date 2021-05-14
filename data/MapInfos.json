@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"Casa 2F","order":5,"parentId":2,"scrollX":634.8,"scrollY":360.59999999999997},
 {"id":6,"expanded":true,"name":"Quarto Irmão","order":7,"parentId":5,"scrollX":531,"scrollY":297},
 {"id":7,"expanded":false,"name":"Banheiro","order":8,"parentId":5,"scrollX":529,"scrollY":291.5},
-{"id":8,"expanded":false,"name":"Casa 3F","order":9,"parentId":2,"scrollX":612,"scrollY":333.5},
+{"id":8,"expanded":true,"name":"Casa 3F","order":9,"parentId":2,"scrollX":612,"scrollY":333.5},
 {"id":9,"expanded":false,"name":"Event Spawn","order":17,"parentId":1,"scrollX":529,"scrollY":299.5},
 {"id":10,"expanded":true,"name":"Mapa","order":1,"parentId":0,"scrollX":796.5,"scrollY":445.5},
 {"id":11,"expanded":true,"name":"Cidade Rascunho","order":16,"parentId":1,"scrollX":646.8,"scrollY":356.4},
@@ -16,5 +16,5 @@ null,
 {"id":14,"expanded":true,"name":"Faculdade entrada","order":12,"parentId":10,"scrollX":637.1999999999999,"scrollY":366},
 {"id":15,"expanded":false,"name":"Faculdade andar 4","order":13,"parentId":14,"scrollX":634.8,"scrollY":359.4},
 {"id":16,"expanded":false,"name":"sala de aula","order":14,"parentId":14,"scrollX":529,"scrollY":299.5},
-{"id":17,"expanded":true,"name":"Cidade","order":2,"parentId":10,"scrollX":1057.5,"scrollY":814.5}
+{"id":17,"expanded":true,"name":"Cidade","order":2,"parentId":10,"scrollX":808.5,"scrollY":703.5}
 ]
